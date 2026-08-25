@@ -22,7 +22,7 @@
 
 <img
   src="./assets/contrib-heatmap.svg"
-  width="960"
+  width="100%"
   alt="Shiven Verma GitHub contribution heatmap"
 />
 
