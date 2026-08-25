@@ -29,6 +29,6 @@
 
 <h3><code>shivenverma@github ~ $ ./connect.sh</code></h3>
 
-<img src="./assets/contact.svg" width="100%" alt="Shiven Verma social links" />
+<img src="./assets/contact.svg" width="100%" alt="Shiven Verma GitHub LinkedIn and email links" />
 
 </div>

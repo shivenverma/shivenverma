@@ -1,22 +1,22 @@
 {
   "links": [
     {
-      "icon": "\u25c9",
       "name": "GitHub",
       "label": "github.com/shivenverma",
-      "url": "https://github.com/shivenverma"
+      "url": "https://github.com/shivenverma",
+      "icon": "github"
     },
     {
-      "icon": "in",
       "name": "LinkedIn",
-      "label": "YOUR_LINKEDIN_URL",
-      "url": "https://www.linkedin.com/in/shiven-verma-24b5862a2/"
+      "label": "linkedin.com/in/your-profile",
+      "url": "https://www.linkedin.com/in/shiven-verma-24b5862a2/",
+      "icon": "linkedin"
     },
     {
-      "icon": "\u2709",
       "name": "Email",
       "label": "shivenverma022@gmail.com",
-      "url": "mailto:shivenverma022@gmail.com"
+      "url": "mailto:shivenverma022@gmail.com",
+      "icon": "email"
     }
   ]
 }
