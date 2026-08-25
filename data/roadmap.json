@@ -1,0 +1,51 @@
+{
+  "current": [
+    {
+      "icon": "\ud83e\udd16",
+      "name": "AI Products",
+      "status": "BUILDING",
+      "level": 4,
+      "description": "Building AI-powered products"
+    },
+    {
+      "icon": "\u2615",
+      "name": "DSA",
+      "status": "LEARNING",
+      "level": 2,
+      "description": "Problem solving and fundamentals"
+    },
+    {
+      "icon": "\ud83e\udde0",
+      "name": "LLMs & Agents",
+      "status": "LEARNING",
+      "level": 2,
+      "description": "LLM apps, agents and RAG"
+    },
+    {
+      "icon": "\ud83d\udee0\ufe0f",
+      "name": "DevOps & Tools",
+      "status": "LEARNING",
+      "level": 2,
+      "description": "Docker, Actions and tooling"
+    },
+    {
+      "icon": "\ud83d\udcbb",
+      "name": "Web Development",
+      "status": "LEARNING",
+      "level": 2,
+      "description": "Frontend and backend development"
+    }
+  ],
+  "up_next": [
+    {
+      "icon": "\u20bf",
+      "name": "Web3",
+      "description": "Bitcoin, Ethereum and smart contracts"
+    },
+    {
+      "icon": "\u2699",
+      "name": "DevOps",
+      "description": "CI/CD, Docker and Kubernetes"
+    }
+  ]
+}
