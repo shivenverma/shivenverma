@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td valign="top">
-<img src="./assets/shiven-ascii.svg" width="460" alt="Shiven Verma ASCII portrait" />
+<img src="./assets/shiven-ascii.svg" width="466" alt="Shiven Verma ASCII portrait" />
 </td>
 
 <td valign="top">
