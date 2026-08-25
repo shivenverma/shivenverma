@@ -17,20 +17,18 @@
 
 <h3><code>shivenverma@github ~ $ ./contributions.sh</code></h3>
 
-<img
-  src="./assets/contrib-heatmap.svg"
-  width="100%"
-  alt="Shiven Verma GitHub contribution heatmap"
-/>
+<img src="./assets/contrib-heatmap.svg" width="100%" alt="Shiven Verma GitHub contribution heatmap" />
 
 <br>
 
 <h3><code>shivenverma@github ~ $ ./roadmap.sh</code></h3>
 
-<img
-  src="./assets/roadmap.svg"
-  width="100%"
-  alt="Shiven Verma learning and building roadmap"
-/>
+<img src="./assets/roadmap.svg" width="100%" alt="Shiven Verma learning and building roadmap" />
+
+<br>
+
+<h3><code>shivenverma@github ~ $ ./connect.sh</code></h3>
+
+<img src="./assets/contact.svg" width="100%" alt="Shiven Verma social links" />
 
 </div>
